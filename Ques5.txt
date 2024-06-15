@@ -1,0 +1,1 @@
+The Industrial Internet of Things (IIoT) has created a new era for manufacturing industries, bridging the gap between operational technologies and information technology. With the use of sensors, machines, and systems with communication networks, IIoT has allowed real-time monitoring and automation of industrial processes.
